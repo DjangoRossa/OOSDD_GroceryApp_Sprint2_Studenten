@@ -41,7 +41,7 @@ namespace Grocery.App.ViewModels
                 {
                     AvailableProducts.Add(product);
                 }
-            }           
+            }
         }
 
         partial void OnGroceryListChanged(GroceryList value)
